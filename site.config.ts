@@ -26,19 +26,19 @@ export default defineSiteConfig({
     },
     {
       name: 'GitHub',
-      link: 'https://github.com/AIOVTUE',
+      link: 'https://github.com/chengnan661',
       icon: 'i-ri-github-line',
       color: '#6e5494',
     },
     {
       name: '微信公众号',
-      link: 'https://r2tc.20030327.xyz/file/博客/主题/1780654223927_mmexport1780654189207.jpeg',
+      link: 'https://s3.bmp.ovh/2026/08/22/QTMOFAi6.png',
       icon: 'i-ri-wechat-2-line',
       color: '#1AAD19',
     },
     {
       name: 'E-Mail',
-      link: 'mailto:x@yybb.us',
+      link: 'mailto:chengnan660@foxmail.com',
       icon: 'i-ri-mail-line',
       color: '#8E71C1',
     },
@@ -85,13 +85,13 @@ export default defineSiteConfig({
     methods: [
       {
         name: '支付宝',
-        url: 'https://i.postimg.cc/fyYTncnJ/IMG-20240915-155521.jpg',
+        url: 'https://s3.bmp.ovh/2026/08/22/4DioFmvU.jpg',
         color: '#00A3EE',
         icon: 'i-ri-alipay-line',
       },
       {
         name: '微信支付',
-        url: 'https://i.postimg.cc/26s8KHts/IMG-20240915-155547.png',
+        url: 'https://s3.bmp.ovh/2026/08/22/qgytfAp1.png',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },

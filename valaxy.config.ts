@@ -235,7 +235,7 @@ export default defineValaxyConfig({
     // 归档页样式：list 时间线 / chart 发布统计折线面积图
     archives: {
       style: 'chart',
-      startMonth: '2024-01',
+      startMonth: '2025-08',
     },
 
     // 标签页样式：list 按钮列表 / chart 柱状统计图
