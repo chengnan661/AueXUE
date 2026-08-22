@@ -161,7 +161,7 @@ export default defineValaxyConfig({
     
     
     hero: {
-      title: 'AIOVTUE',   //首页中间的文字
+      title: 'NanLin',   //首页中间的文字
       motto: '雨是神的烟花',
       urls: [
       '/hero/tt3.png', 
@@ -190,19 +190,19 @@ export default defineValaxyConfig({
     
    footer: {
       powered: false,
-      since: 2024,
-      runtimeSince: '2024-01-01',   //页脚计时时间
+      since: 2026,
+      runtimeSince: '2026-8-22',   //页脚计时时间
       icon: {
         animated: true,
-        url: 'https://your-website.com',
-        title: 'Your Name',
+        url: 'https://nanlin.de5.net/',
+        title: '楠霖',
       },
-      icp: '<a href="https://icp.gov.moe/?keyword=20260258" target="_blank" rel="noopener">萌ICP备20260258号</a>',    //页脚网站备案
+      icp: '<a href="https://icp.gov.moe/?keyword=20268022" target="_blank" rel="noopener">萌ICP备20268022号</a>',    //页脚网站备案
     }, 
   
     navbar: [...mainNavItems],
     navbarOptions: {
-      title: ['AIOVTUE-', '雪'],   //顶栏和侧边栏文字
+      title: ['NanLin-', '楠霖'],   //顶栏和侧边栏文字
       subTitle: '雨是神的烟花',
       offset: 0,
       invert: ['home'],

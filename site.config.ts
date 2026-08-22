@@ -1,12 +1,12 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://your.site',
+  url: 'https://nanlin.de5.net',
   lang: 'zh-CN',
-  title: 'AIOVTUE',
-  subtitle: '雪',
+  title: 'NanLin',
+  subtitle: '楠霖',
   author: {
-    name: 'AIOVTUE',
+    name: 'NanLin',
     avatar: 'https://r2tc.20030327.xyz/file/博客/主题/1780655293662_avatar_me.jpg.PNG',   //站点头像
     status: {
       emoji: '🌸',
