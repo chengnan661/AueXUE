@@ -251,7 +251,7 @@ export default defineValaxyConfig({
 
   addons: [
     addonTwikoo({
-      envId: 'https://your-twikoo/',  //写你自己的twikoo评论地址
+      envId: 'https://twikoo-netlify-nanlin.netlify.app/.netlify/functions/twikoo',  //写你自己的twikoo评论地址
     }),
     addonVercount({
       api: 'cn'   //访问统计
