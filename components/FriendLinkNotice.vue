@@ -109,10 +109,10 @@ async function copyYml() {
         </p>
         <ul class="friend-link-site-info__list">
           <li>
-            站点名称：<span class="friend-link-highlight">AIOVTUE-雪</span>
+            站点名称：<span class="friend-link-highlight">NanLin-楠霖</span>
           </li>
           <li>
-            站点链接：<span class="friend-link-highlight">https://live.yybb.us</span>
+            站点链接：<span class="friend-link-highlight">https://nanlin.de5.net/</span>
           </li>
           <li>
             站长头像：<span class="friend-link-highlight">{{ siteInfo.avatar }}</span>
@@ -121,7 +121,7 @@ async function copyYml() {
             站点描述：<span class="friend-link-highlight">雨滴会记录生命中的每一个瞬间</span>
           </li>
           <li>
-            站点截图：<span class="friend-link-highlight">https://r2tc.20030327.xyz/file/博客/主题/1780909850378_1780909790262.png</span>
+            站点截图：<span class="friend-link-highlight">https://s3.bmp.ovh/2026/08/23/ieyYsueu.png</span>
           </li>
         </ul>
       </div>
