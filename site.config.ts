@@ -32,7 +32,7 @@ export default defineSiteConfig({
     },
     {
       name: '微信公众号',
-      link: 'https://img.nanlin.de5.net/file/1787480726245_moyk_2026-08-22_16-37-04.png',
+      link: 'https://img.nanlin.de5.net/file/1787925375370_moyk_2026-08-22_16-37-04.webp',
       icon: 'i-ri-wechat-2-line',
       color: '#1AAD19',
     },
@@ -85,13 +85,13 @@ export default defineSiteConfig({
     methods: [
       {
         name: '支付宝',
-        url: 'https://img.nanlin.de5.net/file/1787480731353_收钱码-1787404669838.jpg',
+        url: 'https://img.nanlin.de5.net/file/1787925373491_收钱码-1787404669838.webp',
         color: '#00A3EE',
         icon: 'i-ri-alipay-line',
       },
       {
         name: '微信支付',
-        url: 'https://img.nanlin.de5.net/file/1787480735196_IMG_4257-1787404670024.png',
+        url: 'https://img.nanlin.de5.net/file/1787925380969_IMG_4257-1787404670024.webp',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },
